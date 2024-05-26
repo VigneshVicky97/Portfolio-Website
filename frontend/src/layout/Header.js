@@ -75,7 +75,7 @@ const Header = ({ onSidebarOpen }) => {
                   display: { md: 'inline', xs: 'none' },
                 }}
               >
-                Bob Developer
+                Vignesh's Portfolio
               </Typography>
             </IconButton>
           </Link>
@@ -87,10 +87,10 @@ const Header = ({ onSidebarOpen }) => {
             }}
           >
             <CustomButton href='#home' text='Home' />
-            <CustomButton href='#about' text='About' />
-            <CustomButton href='#projects' text='Projects' />
+            <CustomButton href='#about' text='About Me' />
+            <CustomButton href='#projects' text='My Work' />
             <CustomButton href='#technologies' text='Technologies' />
-            <CustomButton href='#testimonials' text='Testimonials' />
+            <CustomButton href='#testimonials' text='Reviews' />
             <CustomButton href='#contact' text='Contact' />
           </Box>
           <Divider

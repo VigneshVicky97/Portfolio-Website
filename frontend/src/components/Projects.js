@@ -51,7 +51,7 @@ const Projects = () => {
             gutterBottom
             data-aos='fade-up'
           >
-            Projects
+            My Work
           </Typography>
           <Typography
             variant='h5'

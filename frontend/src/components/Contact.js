@@ -56,7 +56,7 @@ const Contact = () => {
               gutterBottom
               data-aos='fade-up'
             >
-              Get in touch
+              Contact
             </Typography>
             <Typography
               variant='h6'
@@ -66,8 +66,7 @@ const Contact = () => {
               marginBottom={6}
               data-aos='fade-up'
             >
-              Do you need a full-stack web developer? I would love to hear from
-              you.
+              I would love to hear from you.
             </Typography>
           </Box>
           {contact.slice(0, 1).map((item, i) => (

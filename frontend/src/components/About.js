@@ -49,7 +49,7 @@ const About = () => {
               gutterBottom
               data-aos='fade-up'
             >
-              About
+              About Me
             </Typography>
             <Typography
               variant='h5'
@@ -59,8 +59,7 @@ const About = () => {
               marginBottom={6}
               data-aos='fade-up'
             >
-              I am a freelance web developer who builds elegant, fast, and
-              scalable web applications
+              I am a Software Developer eager to learn new technologies and create best products.
             </Typography>
           </Box>
           <Grid container spacing={4}>

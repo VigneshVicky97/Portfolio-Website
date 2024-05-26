@@ -60,7 +60,7 @@ const Technologies = () => {
               marginBottom={6}
               data-aos='fade-up'
             >
-              Technologies I use to build web applications
+              Technologies I use to build my applications
             </Typography>
           </Box>
           <Grid container spacing={2}>

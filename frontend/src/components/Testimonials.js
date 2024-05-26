@@ -57,7 +57,7 @@ const Testimonials = () => {
               gutterBottom
               data-aos='fade-up'
             >
-              Testimonials
+              Reviews
             </Typography>
             <Typography
               variant='h4'
